@@ -35,7 +35,7 @@ footer {
 }
 
 .header-container {
-        background-image: url('images/header-background.jpg');
+        background-image: url('/images/header-background.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
