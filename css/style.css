@@ -36,7 +36,7 @@ footer {
 
 .header-container {
     height: 100vh;
-    background-image: url('/header-background.jpg');
+    background-image: url('https://ronpaek100.github.io/personal-site/header-background.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
