@@ -1,0 +1,74 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 100vh;
+    background-image: url('/images/profile-background.jpg');
+}
+
+.nav-bar-container  {
+    padding: 15px;
+    background-color: blanchedalmond;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    background-color: blanchedalmond;
+    padding: .5rem 0;
+}
+
+.current-skills {
+    width: 100%;
+}
+
+.image-container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.skills {
+    color: lavender;
+    text-align: center;
+    font-size: 3rem;
+}
+
+
+.get-started {
+    padding: 10px 15px;
+    background-color: floralwhite;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 10rem;
+    color: white;
+    text-decoration-line: underline;
+}
+
+.profile-container  {
+    margin-top: 5rem;
+    text-align: center;
+}
+
