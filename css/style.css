@@ -4,16 +4,6 @@ body {
     padding: 0;
 }
 
-header {
-    height: 100vh;
-    background-color: #4B3B40;
-}
-
-.nav-bar-container  {
-    padding: 15px;
-    background-color: blanchedalmond;
-}
-
 h2 {
     font-size: 3rem;
     text-align: center;
@@ -37,6 +27,17 @@ section {
 footer {
     background-color: blanchedalmond;
     padding: .5rem 0;
+}
+
+.nav-bar-container  {
+    padding: 15px;
+    background-color: blanchedalmond;
+}
+
+.header-container {
+        height: 100vh;
+        background-image: url('/images/header-background.jpg');
+        /* background-color: #4B3B40; */
 }
 
 .current-skills {
