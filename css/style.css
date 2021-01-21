@@ -6,7 +6,7 @@ body {
 
 header {
     height: 100vh;
-    background-image: url('/images/profile-background.jpg');
+    background-image: url('/images/profilebackground.jpg');
 }
 
 .nav-bar-container  {
